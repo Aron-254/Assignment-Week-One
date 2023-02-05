@@ -17,4 +17,4 @@ Its a  landing page about myself
 ## live Link 
 https://Aron-254.github.io/Assignment-Week-One
 ## License
-(C)2023 Aron Ngetich
+(C)-2023 Aron Ngetich
