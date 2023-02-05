@@ -6,6 +6,7 @@ h1{
 }
 h4{
     color:rgb(255, 0, 64)
+    text-underline-position: below;
 }
 img {
     border-radius: 50px;
