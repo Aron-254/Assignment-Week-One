@@ -7,3 +7,6 @@ h1{
 h4{
     color:rgb(255, 0, 64)
 }
+img {
+    border-radius: 30px;
+  }
